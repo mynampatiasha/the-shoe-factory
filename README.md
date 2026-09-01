@@ -1,20 +1,35 @@
-# The Shoe Factory
+# 👟 The Shoe Factory
 
-Landing page for The Shoe Factory, a multi-brand footwear outlet in
-Jayanagar, Bengaluru — Nike, Adidas, Puma, Reebok, Skechers, and more.
+`Static Site` `HTML/CSS/JS` `Footwear Retail`
 
-## Tech stack
+> Branded shoes at 50% OFF — Nike, Adidas, Puma & more, Jayanagar, Bengaluru.
 
-Static HTML, CSS, and vanilla JavaScript — no build step, no framework.
+## What is this?
 
-## Structure
+A landing page for The Shoe Factory, a multi-brand footwear outlet in
+Jayanagar, Bengaluru — 500+ styles across sneakers, formals, sports, and
+kids' footwear from Nike, Adidas, Puma, Reebok, Skechers, and more.
 
-- `index.html` — the page
-- `index.css` — styles
-- `index.js` — page behavior
-- `kids.jpg` — product photo
+## ✨ Highlights
 
-## Running locally
+- 👟 Multi-brand footwear showcase
+- 🏷️ 50% OFF offer highlighted
+- 📍 Store location and hours
+
+## 🛠️ Tech Stack
+
+Static **HTML**, **CSS**, and vanilla **JavaScript** — no build step, no framework.
+
+## 📁 Structure
+
+```
+index.html      # the page
+index.css        # styles
+index.js         # page behavior
+kids.jpg          # product photo
+```
+
+## 🚀 Running Locally
 
 ```bash
 python -m http.server 8000
